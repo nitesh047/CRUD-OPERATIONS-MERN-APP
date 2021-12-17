@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Rekha Devi Saini",
+      "username": "niteshsaini5112001@gmail.com",
+      "email": "niteshsaini5112001@gmail.com",
+      "phone": "09521538903",
+      "id": 1
+    },
+    {
+      "name": "Nitesh Saini",
+      "username": "niteshsaini5112001@gmail.com",
+      "email": "niteshsaini5112001@gmail.com",
+      "phone": "09521538903",
+      "id": 2
+    }
+  ]
+}
